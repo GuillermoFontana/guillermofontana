@@ -1,7 +1,7 @@
-Hola soy Guillermo Fontana
+Hola soy Guillermo Fontana..
 
 
 - 🔭  Actualmente  estoy buscando trabajo como programador 
-- 🌱 Estudiaé en Digital House (2022)
+- 🌱 Estudié en Digital House (2022)
 - 📫 Como contactarme: guilleefontana@gmail.com
-- ⚡ Fun fact:  ademas de ser programador , soy deportista y guardavidas. Me gusta trabajar en equipo. 
+- ⚡ Datos:  Ademas de ser programador Fullstack , soy deportista y guardavidas. Me gusta trabajar en equipo. Soy de aprender con facilidad y adaptarme rapido.
